@@ -21,7 +21,7 @@ Start Apache and MySQL Servers: Open XAMPP Control Panel and start the Apache an
 
 Clone the Repository: Clone the repository to your local machine using Git:
 
-git clone https://github.com/Deepanshu-choudhary1/VIRTUAL-ART-GALLERY
+git clone https://github.com/Deepanshu-choudhary1/VIRTUAL ART GALLERY
 Move the Project Files: Move the project files to the htdocs directory in your XAMPP installation directory.
 
 Create the Database: Import the provided SQL file (database.sql) into your MySQL database using phpMyAdmin or MySQL command line.
